@@ -1,6 +1,7 @@
-# Hello there,
+# Hello there 😁
 
-An Gdańsk Tech Graduate. I am a backend, databases, and Linux enthusiast looking to kickstart my professional career in tech. I love low-level concepts, system architecture, and understanding how things work under the hood.
+An Gdańsk Tech Graduate. I am a backend, databases, and Linux enthusiast looking to kickstart my professional career in tech.
+I love low-level concepts, system architecture, and understanding how things work under the hood.
 
 ---
 
