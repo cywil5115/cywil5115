@@ -7,7 +7,7 @@ I love low-level concepts, system architecture, and understanding how things wor
 
 ### 🚀 About Me
 
-- **I’m currently working on:** AerynOS packages and OS development – exploring operating system internals and system-level software
+- **I’m currently working on:** aerynOS packages and OS development – exploring operating system internals and system-level software
 - **I’m currently learning:** Python, C, and Odin (focusing heavily on manual memory management), as well as modern backend database design through courses on **Boot.dev**.
 - **Ask me about:** Singing! I am a vocalist and love music.
 - **Fun fact:** Aside from IT and singing, I am learning how to DIY and fix things around my car.
